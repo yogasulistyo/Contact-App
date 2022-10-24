@@ -1,0 +1,14 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Yoga Sulistyo",
+      "nohp": "08467242219"
+    },
+    {
+      "id": 2,
+      "nama": "etik sumatik",
+      "nohp": "08634894219"
+    }
+  ]
+}
